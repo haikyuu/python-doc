@@ -12,3 +12,5 @@ Extra
 `nodemon --exec python doc.py`
 
 Cette commande va Watcher le ficher et relancer le programme pour chaque changement.
+
+Voici un tutoriel de tkinter sur jupyter https://github.com/digitronik/tutorial-tkinter
